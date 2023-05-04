@@ -56,3 +56,18 @@ h1 {
 .carousel > *:last-child {
   margin-right: 0;
 }
+.card.bodybuilding {
+  background-image: url('bodybuilding.jpg');
+}
+
+.card.yoga {
+  background-image: url('yoga.jpg');
+}
+
+.card.aerobics {
+  background-image: url('aerobics.jpg');
+}
+
+.card.flexibility {
+  background-image: url('flexibility.jpg');
+}
